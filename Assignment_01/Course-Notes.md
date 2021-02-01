@@ -21,3 +21,5 @@ b.copy       b.index    b.remove
 datetime.date       datetime.MAXYEAR      datetime.timedelta
 datetime.datetime   datetime.MINYEAR      datetime.timezone
 datetime.datetime_CAPI   datetime.time    datetime.tzinfo
+####  Introspection-
+  >  If the object is a function or instance method, the docstring, if defined we have to follow that function and call that function when we have to pass the arguments
