@@ -2,4 +2,4 @@
 
 ## This is for special topics in Data science assignments
 
-## Then I will create a folder for Assignment_01
+## Then I will create a folder for Assignments
