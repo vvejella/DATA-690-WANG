@@ -6,8 +6,8 @@
 - To calculate mean, variance and Standard deviation.
 
 1. First we have to create a .ipynb file
-2. Then pass integers into list through iteration for given range
-3. Checks whether passed input is input/not; if it is ok then breaks loop and appends into list else it will raise an exception in form of error message like retry
+2. Then pass integers into list through a loop iteration in the given range
+3. Checking whether passed input is ok/not; if it is ok then breaks loop and appends into list else it will raise an exception in form of error message like retry
 4. Later we have to convert the string list into int type of list
 5. At last we have to perform operations on that list like finding maximum, minimum, range and calculates mean, variance and standard deviation. 
 
